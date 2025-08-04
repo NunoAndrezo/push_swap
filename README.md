@@ -165,13 +165,8 @@ push_swap/
 - [42 push_swap Subject PDF](https://cdn.intra.42.fr/pdf/push_swap.pdf)  
 - [Stack Sorting Techniques](https://www.chrisstinson.com/stack-sort/)  
 - [Norminette Rules](https://github.com/42School/norminette)
-
----
-
 ## 👤 Author
 
 **Nuno Andrezo**  
 42 Lisboa Student  
 🔗 GitHub: [@NunoAndrezo](https://github.com/NunoAndrezo)
-```
-```
