@@ -149,15 +149,11 @@ valgrind --leak-check=full ./push_swap 3 2 5 1 4
 
 ```text
 push_swap/
+├── include/
+├── printf/
+├── push_swap_42/
 ├── src/
-│   ├── main.c
-│   ├── parse.c
-│   ├── ops.c
-│   ├── algo_chunk.c
-│   ├── utils.c
-│   └── checker.c
-├── includes/
-│   └── push_swap.h
+├── LICENSE
 ├── Makefile
 └── README.md
 ```
